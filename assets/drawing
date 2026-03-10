@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="720"
+   height="520"
+   viewBox="0 0 720 520"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="jack-in-the-box.svg"
+   inkscape:version="1.4.3 (0d15f750, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:zoom="1"
+     inkscape:cx="360"
+     inkscape:cy="260"
+     inkscape:window-width="1512"
+     inkscape:window-height="921"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="scene">
+      <g
+         id="clown"
+         transform="translate(360,238) rotate(-4)"
+         opacity="1">
+        <circle
+           id="head"
+           cx="0"
+           cy="-114"
+           r="46"
+           fill="#fff4d6"
+           stroke="#22191a"
+           stroke-width="4" />
+        <circle
+           id="eye-left"
+           cx="-14"
+           cy="-120"
+           r="5"
+           fill="#22191a" />
+        <circle
+           id="eye-right"
+           cx="14"
+           cy="-120"
+           r="5"
+           fill="#22191a" />
+        <circle
+           id="nose"
+           cx="0"
+           cy="-105"
+           r="7"
+           fill="#d94b3d" />
+        <path
+           id="smile"
+           d="M-18 -92 Q0 -76 18 -92"
+           fill="none"
+           stroke="#22191a"
+           stroke-width="4"
+           stroke-linecap="round" />
+        <path
+           id="hat"
+           d="M-34 -154 L0 -194 L34 -154 Z"
+           fill="#efb347"
+           stroke="#22191a"
+           stroke-width="4"
+           stroke-linejoin="round" />
+        <circle
+           id="pompom"
+           cx="0"
+           cy="-194"
+           r="7"
+           fill="#d94b3d"
+           stroke="#22191a"
+           stroke-width="4" />
+        <rect
+           id="body"
+           x="-42"
+           y="-68"
+           width="84"
+           height="72"
+           rx="18"
+           fill="#2f847c"
+           stroke="#22191a"
+           stroke-width="4" />
+        <path
+           id="spring"
+           d="M 0 4 C -10 0, -10 12, 0 18 C 10 24, 10 36, 0 42 C -10 48, -10 60, 0 66 C 10 72, 10 84, 0 90 C -10 96, -10 108, 0 114"
+           fill="none"
+           stroke="#22191a"
+           stroke-width="4"
+           stroke-linecap="round"
+           stroke-linejoin="round" />
+      </g>
+      <g
+         id="box"
+         transform="translate(360,336)">
+        <rect
+           id="box-base"
+           x="-122"
+           y="-2"
+           width="244"
+           height="84"
+           rx="14"
+           fill="#c53d34"
+           stroke="#22191a"
+           stroke-width="5" />
+        <rect
+           id="box-vertical-band"
+           x="-24"
+           y="-2"
+           width="48"
+           height="84"
+           fill="#fff4d6"
+           opacity="0.9" />
+        <rect
+           id="box-horizontal-band"
+           x="-122"
+           y="24"
+           width="244"
+           height="16"
+           fill="#efb347"
+           opacity="0.85" />
+        <g
+           id="lid"
+           transform="translate(0,-2) rotate(-90,-110,0)">
+          <rect
+             id="lid-body"
+             x="-132"
+             y="-28"
+             width="264"
+             height="28"
+             rx="10"
+             fill="#2f847c"
+             stroke="#22191a"
+             stroke-width="5" />
+          <circle
+             id="lid-button"
+             cx="0"
+             cy="-14"
+             r="9"
+             fill="#fff4d6"
+             stroke="#22191a"
+             stroke-width="4" />
+        </g>
+        <g
+           id="handle"
+           transform="translate(124,38) rotate(22)">
+          <line
+             id="handle-arm"
+             x1="0"
+             y1="0"
+             x2="34"
+             y2="-16"
+             stroke="#22191a"
+             stroke-width="6"
+             stroke-linecap="round" />
+          <circle
+             id="handle-knob"
+             cx="42"
+             cy="-20"
+             r="14"
+             fill="#efb347"
+             stroke="#22191a"
+             stroke-width="5" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
